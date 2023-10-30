@@ -12,7 +12,7 @@ Click generate password to choose length of your password. Click generate passwo
 ## Usage
 A password generator helps users to create special passwords. 
 
-![alt text](../password-generator/password.jpg)
+![alt text](../password-generator/Image/password.jpg)
 
 ## Credits
 Followed tutorials:
