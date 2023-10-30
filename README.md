@@ -17,13 +17,15 @@ A password generator helps users to create special passwords.
 ## Credits
 Followed tutorials:
 <br>
-[String in to ineger](https://www.tutorialspoint.com/how-to-convert-a-string-into-integer-in-javascript)
+[string in to ineger](https://www.tutorialspoint.com/how-to-convert-a-string-into-integer-in-javascript)
 <br>
-[Operators](https://www.w3schools.com/jsref/jsref_operators.asp)
+[operators](https://www.w3schools.com/jsref/jsref_operators.asp)
 <br>
 [concat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 <br>
 [calling a function](https://www.youtube.com/watch?v=QpHiwoj-vK8)
+<br>
+[changing font](https://www.youtube.com/watch?v=JkeyKeK3V24)
 
 ## License
 MIT
